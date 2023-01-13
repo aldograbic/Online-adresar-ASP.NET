@@ -1,0 +1,10 @@
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\ASP web-programiranje\ASP.NET aplikacija za online adresar\ASP.NET projekt\ASP.NET projekt\bin\ASP.NET projekt.dll.config
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\ASP web-programiranje\ASP.NET aplikacija za online adresar\ASP.NET projekt\ASP.NET projekt\bin\ASP.NET projekt.dll
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\ASP web-programiranje\ASP.NET aplikacija za online adresar\ASP.NET projekt\ASP.NET projekt\bin\ASP.NET projekt.pdb
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\ASP web-programiranje\ASP.NET aplikacija za online adresar\ASP.NET projekt\ASP.NET projekt\obj\Debug\ASP.NET projekt.csproj.AssemblyReference.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\ASP web-programiranje\ASP.NET aplikacija za online adresar\ASP.NET projekt\ASP.NET projekt\obj\Debug\ASP.NET projekt.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\ASP web-programiranje\ASP.NET aplikacija za online adresar\ASP.NET projekt\ASP.NET projekt\obj\Debug\ASP.NET projekt.dll
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\ASP web-programiranje\ASP.NET aplikacija za online adresar\ASP.NET projekt\ASP.NET projekt\obj\Debug\ASP.NET projekt.pdb
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\ASP web-programiranje\ASP.NET aplikacija za online adresar\ASP.NET projekt\ASP.NET projekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\ASP web-programiranje\ASP.NET aplikacija za online adresar\ASP.NET projekt\ASP.NET projekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Korisnik\OneDrive\Dokumenti\faks\ASP web-programiranje\ASP.NET aplikacija za online adresar\ASP.NET projekt\ASP.NET projekt\obj\Debug\ASP.NET projekt.csproj.CopyComplete
